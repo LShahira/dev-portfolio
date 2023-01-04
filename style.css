@@ -1,6 +1,6 @@
 .back{
     background-image: url(pic/v.webp);
-    background-repeat: repeat;
+    background-repeat: no-repeat;
 }
 body{
     font-family: 'Prosto One', cursive;
@@ -26,4 +26,20 @@ section{
 .half img{
     width: 100%;
     padding-right: 5%;
+}
+/* shions page starts from here */
+
+.mage{
+    color: rgb(255, 159, 237);
+}
+
+.second{
+    width: 50%;
+}
+.second img{
+    width: 60%;
+    padding-left: 10%;
+}
+.shion{
+    display:flex
 }
