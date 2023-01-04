@@ -18,6 +18,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .half{
     width: 50%;
@@ -32,7 +33,10 @@ section{
 .mage{
     color: rgb(255, 159, 237);
 }
-
+.shion{
+    background-image: url(pic/p.webp);
+}
+/* 
 .second{
     width: 50%;
 }
@@ -42,4 +46,4 @@ section{
 }
 .shion{
     display:flex
-}
+} */
