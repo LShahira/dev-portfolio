@@ -36,3 +36,24 @@ h1{
 .shion{
     background-image: url(pic/p.webp);
 }
+.exp_item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left:20px ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px rgb(53, 134, 255);
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+
+}
+.exp{
+    background-image: url(pic/blue.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+footer p{
+    text-align: center;
+}
