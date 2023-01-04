@@ -16,7 +16,7 @@ h1{
 .IO{
     color: rgb(0, 182, 243);
 }
-section{
+.flexible_con{
     display: flex;
     margin-bottom: 200px;
 }
@@ -36,14 +36,3 @@ section{
 .shion{
     background-image: url(pic/p.webp);
 }
-/* 
-.second{
-    width: 50%;
-}
-.second img{
-    width: 60%;
-    padding-left: 10%;
-}
-.shion{
-    display:flex
-} */
